@@ -6,17 +6,6 @@ Teachers can then grade and give feedback with audio playback support.
 
 ---
 
-## Project Structure
-
-music-homework-app/
-|--- lms_frontend/ # Flutter mobile app (Student & Teacher apps)
-|--- lms-backend/ # Node.js/Express backend (APIs, DB, Auth)
-|--- assets/ # Demo videos
-|--- README.md # Project documentation
-
-
----
-
 ## Features
 
 - **Student App**
