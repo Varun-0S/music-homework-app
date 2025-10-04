@@ -34,17 +34,13 @@ Teachers can then grade and give feedback with audio playback support.
 ## Demo Videos
 
 ### Student Demo
-<video width="600" controls>
-  <source src="https://github.com/Varun-0S/music-homework-app/raw/main/assets/student_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Student Demo](https://github.com/Varun-0S/music-homework-app/raw/main/assets/student_demo.mp4)
 
 ### Teacher Demo
-<video width="600" controls>
-  <source src="https://github.com/Varun-0S/music-homework-app/raw/main/assets/teacher_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Teacher Demo](https://github.com/Varun-0S/music-homework-app/raw/main/assets/teacher_demo.mp4)
+
 
 ---
+
 
 
