@@ -8,13 +8,13 @@ Teachers can then grade and give feedback with audio playback support.
 
 ## Features
 
-- **Student App**
+- **For Student**
   - View assigned homework
   - Upload audio submissions
   - Download teacher reference audio
   - View feedback and grades  
 
-- **Teacher App**
+- **For Teacher**
   - Create and assign homework with due dates
   - Review student submissions
   - Provide grades and feedback
@@ -46,3 +46,4 @@ Teachers can then grade and give feedback with audio playback support.
 </video>
 
 ---
+
