@@ -1,0 +1,11 @@
+# Node.js
+lms-backend/node_modules/
+lms-backend/.env
+
+# Flutter
+lms_frontend/build/
+lms_frontend/.dart_tool/
+lms_frontend/pubspec.lock
+
+# General
+.DS_Store
